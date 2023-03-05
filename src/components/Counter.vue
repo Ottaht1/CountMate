@@ -5,7 +5,8 @@
     <div class="d-flex justify-content-center align-items-center mb-3">
     <button class="btn btn-primary mr-2" @click="decrement(parseInt(value))">-</button>
     <button class="btn btn-secondary mr-2" @click="reset()">Reset</button>
-    <input type="number" v-model="value"  class="form-control mr-2"/>
+    <div class="col-xs-3">
+    <input type="number" v-model="value"  class="form-control mr-2"/></div>
     <button class="btn btn-primary mr-2" @click="setValue(parseInt(value))">Set Value</button>
     <button  class="btn btn-primary" @click="increment(parseInt(value))">+</button>
   </div>

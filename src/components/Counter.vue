@@ -69,6 +69,7 @@ button {
   border-radius: 5px;
   border: none;
   cursor: pointer;
+  text-align: center;
   background-color: gray;
 }
 .d-flex {

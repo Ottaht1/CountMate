@@ -29,7 +29,7 @@ Once the app is running, you can use the following controls to manipulate the co
 
 ## Demo
 
-Insert gif or link to demo
+https://poetic-trifle-ae2823.netlify.app
 
 
 ## Contributing
